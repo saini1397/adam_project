@@ -1,0 +1,15 @@
+Package: CDISCVIZ
+Title:Advanced ADaM Data Visualization app..
+Version: 0.0.0.9000
+Authors@R: 
+    person("Deepak", "Saini", , "saini1397@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Table, Listing and Figure app.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+URL: https://github.com/saini1397/adam_project/
+Depends: 
+    R (>= 4.3.2)    
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
