@@ -1,2 +1,7 @@
+^renv$
+^renv\.lock$
 ^CDISCVIZ\.Rproj$
 ^\.Rproj\.user$
+^CDISCVIZ\.Rcheck$
+^CDISCVIZ.*\.tar\.gz$
+^CDISCVIZ.*\.tgz$
